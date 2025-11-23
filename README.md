@@ -22,9 +22,7 @@ Aplikasi memiliki fitur:
 ![alt text](results/tambahHari.png)
 ![alt text](results/resetHari.png)
 ![alt text](results/kurangHari.png)
-![
-    
-](results/tambahCatatan.png)
+![alt text](results/tambahCatatan.png)
 ### 2. Penjelasan Singkat
 Jelaskan bagian penting, misalnya:
 - bagaimana `addTask()` bekerja
