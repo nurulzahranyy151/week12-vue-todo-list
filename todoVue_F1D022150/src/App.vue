@@ -15,7 +15,10 @@ function addTask() {
 
 // Materi ref() Hapus task
 function deleteTask(index) {
-  tasks.value.splice(index, 1)
+   const confirmed = window.confirm("Apakah kamu yakin ingin menghapus tugas ini?");
+  if (confirmed) {
+    tasks.value.splice(index, 1);
+  }
 }
 
 // Materi ref() Counter 
